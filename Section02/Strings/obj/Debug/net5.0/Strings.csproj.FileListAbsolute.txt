@@ -1,0 +1,16 @@
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\Strings.exe
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\Strings.deps.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\Strings.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\ref\Strings.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\bin\Debug\net5.0\Strings.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\ref\Strings.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\Variables.exe
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\Variables.deps.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\Variables.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\ref\Variables.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\bin\Debug\net5.0\Variables.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\ref\Variables.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
