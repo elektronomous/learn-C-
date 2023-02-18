@@ -1,0 +1,16 @@
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.csproj.AssemblyReference.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.AssemblyInfoInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.AssemblyInfo.cs
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.csproj.CoreCompileInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\Consoles.exe
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\Consoles.deps.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\Consoles.runtimeconfig.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\Consoles.runtimeconfig.dev.json
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\Consoles.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\ref\Consoles.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\bin\Debug\net5.0\Consoles.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\ref\Consoles.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\Section02\Consoles\obj\Debug\net5.0\Consoles.genruntimeconfig.cache

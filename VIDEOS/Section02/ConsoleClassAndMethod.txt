@@ -1,0 +1,11 @@
+= Console.Write("text here") => Prints and keeps the cursor on the same line
+= Console.WriteLine("text here") => Prints and puts the cursor in the next line
+= Console.Read() => Takes a single input of type string and it returns the ASCII value
+                    of that input(an integer value).
+= ASCII => American Standard Code for Information Interchange
+        => 7-bit, that begin from 0 to 255
+        => For example, your computer received your input that pressed 'A'
+           the computer understand that's 'A' because it store the bit code(0100001)
+           of the 'A'.
+= Console.ReadLine() => Takes a string or integer input and returns it as the Output value.
+= Console.ReadKey() => Takes a single character input and accept the input without the enter.
