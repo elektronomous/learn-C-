@@ -1,0 +1,16 @@
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.csproj.AssemblyReference.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfoInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfo.cs
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.csproj.CoreCompileInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\Challenge1.exe
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\Challenge1.deps.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.dev.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\Challenge1.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\ref\Challenge1.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\bin\Debug\net5.0\Challenge1.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\ref\Challenge1.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge1\obj\Debug\net5.0\Challenge1.genruntimeconfig.cache

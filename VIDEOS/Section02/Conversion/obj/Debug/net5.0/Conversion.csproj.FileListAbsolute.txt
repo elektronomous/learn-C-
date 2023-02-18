@@ -1,0 +1,16 @@
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.csproj.AssemblyReference.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfoInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfo.cs
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.csproj.CoreCompileInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\Conversion.exe
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\Conversion.deps.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.dev.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\Conversion.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\ref\Conversion.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\bin\Debug\net5.0\Conversion.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\ref\Conversion.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Conversion\obj\Debug\net5.0\Conversion.genruntimeconfig.cache

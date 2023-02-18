@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROGRAM\\C# PROGRAM\\learn-C-\\Section02\\Strings\\Strings.csproj",
+      "projectUniqueName": "E:\\PROGRAM\\C# PROGRAM\\learn-C-\\VIDEOS\\Section02\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "E:\\PROGRAM\\C# PROGRAM\\learn-C-\\Section02\\Strings\\Strings.csproj",
+      "projectPath": "E:\\PROGRAM\\C# PROGRAM\\learn-C-\\VIDEOS\\Section02\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\PLN\\.nuget\\packages\\",
-      "outputPath": "E:\\PROGRAM\\C# PROGRAM\\learn-C-\\Section02\\Strings\\obj\\",
+      "outputPath": "E:\\PROGRAM\\C# PROGRAM\\learn-C-\\VIDEOS\\Section02\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

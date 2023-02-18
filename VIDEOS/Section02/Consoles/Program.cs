@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Internal;
+using System;
 
 namespace Consoles
 {
@@ -6,6 +7,10 @@ namespace Consoles
     {
         static void Main(string[] args)
         {
+            // change color
+            // Console.BackgroundColor = ConsoleColor.DarkYellow;
+            // Console.Clear(); // set the color
+            
             Console.WriteLine("Hello Welcome");
             Console.Write("Hello There");           // print without a new line
             Console.WriteLine("s");
@@ -20,6 +25,8 @@ namespace Consoles
             int asciiValue = Console.Read();
             Console.WriteLine("ASCII value is {0}", asciiValue);
             Console.ReadKey();
+
+            
         }
     }
 }
