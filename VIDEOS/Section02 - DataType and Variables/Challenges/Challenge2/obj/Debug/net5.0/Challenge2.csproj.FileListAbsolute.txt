@@ -1,0 +1,32 @@
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.csproj.AssemblyReference.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfoInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfo.cs
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.csproj.CoreCompileInputs.cache
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.exe
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.deps.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.dev.json
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\ref\Challenge2.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\ref\Challenge2.dll
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.pdb
+E:\PROGRAM\C# PROGRAM\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.genruntimeconfig.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.exe
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.deps.json
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.json
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.dev.json
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\ref\Challenge2.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\bin\Debug\net5.0\Challenge2.pdb
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.csproj.AssemblyReference.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfoInputs.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfo.cs
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\ref\Challenge2.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.pdb
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section02\Challenges\Challenge2\obj\Debug\net5.0\Challenge2.genruntimeconfig.cache
