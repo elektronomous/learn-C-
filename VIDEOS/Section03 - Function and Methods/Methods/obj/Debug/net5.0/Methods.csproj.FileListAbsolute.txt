@@ -1,0 +1,16 @@
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\ntb01\OneDrive\Documents\faza\learn-C-\VIDEOS\Section03 - Function and Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
